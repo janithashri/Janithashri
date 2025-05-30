@@ -13,52 +13,44 @@ I enjoy building secure, scalable backend systems using **Node.js**, deploying o
 ---
 ## 🛠️ Skills
 
-<p align="left">
 
-<!-- Backend Development -->
-<img alt="Node.js" width="30" height="30" src="https://skill-icons.dev/icons?i=nodejs" />
-<img alt="Express" width="30" height="30" src="https://skill-icons.dev/icons?i=express" />
-<img alt="MongoDB" width="30" height="30" src="https://skill-icons.dev/icons?i=mongodb" />
-<img alt="Socket.IO" width="30" height="30" src="https://skill-icons.dev/icons?i=socketio" />
-<img alt="REST API" width="30" height="30" src="https://skill-icons.dev/icons?i=restapi" />
+## 🛠️ Skills
 
-<!-- Programming & DSA -->
-<img alt="C++" width="30" height="30" src="https://skill-icons.dev/icons?i=cpp" />
-<img alt="Python" width="30" height="30" src="https://skill-icons.dev/icons?i=python" />
-<img alt="MySQL" width="30" height="30" src="https://skill-icons.dev/icons?i=mysql" />
+![Node.js](https://skill-icons.dev/icons?i=nodejs =30x30) 
+![Express](https://skill-icons.dev/icons?i=express =30x30)
+![MongoDB](https://skill-icons.dev/icons?i=mongodb =30x30)
+![Socket.IO](https://skill-icons.dev/icons?i=socketio =30x30)
+![REST API](https://skill-icons.dev/icons?i=restapi =30x30)
 
-<!-- AWS Cloud -->
-<img alt="AWS" width="30" height="30" src="https://skill-icons.dev/icons?i=aws" />
-<img alt="Lambda" width="30" height="30" src="https://skill-icons.dev/icons?i=awslambda" />
-<img alt="EC2" width="30" height="30" src="https://skill-icons.dev/icons?i=awsec2" />
-<img alt="S3" width="30" height="30" src="https://skill-icons.dev/icons?i=awss3" />
-<img alt="CloudWatch" width="30" height="30" src="https://skill-icons.dev/icons?i=awscloudwatch" />
-<img alt="Route53" width="30" height="30" src="https://skill-icons.dev/icons?i=awsroute53" />
-<img alt="API Gateway" width="30" height="30" src="https://skill-icons.dev/icons?i=awsapigateway" />
-<img alt="Secrets Manager" width="30" height="30" src="https://skill-icons.dev/icons?i=awssecretsmanager" />
-<img alt="ECS" width="30" height="30" src="https://skill-icons.dev/icons?i=awsecs" />
-<img alt="RDS" width="30" height="30" src="https://skill-icons.dev/icons?i=awsrds" />
-<img alt="CloudFront" width="30" height="30" src="https://skill-icons.dev/icons?i=awscloudfront" />
-<img alt="Load Balancer" width="30" height="30" src="https://skill-icons.dev/icons?i=awselb" />
+![C++](https://skill-icons.dev/icons?i=cpp =30x30)
+![Python](https://skill-icons.dev/icons?i=python =30x30)
+![MySQL](https://skill-icons.dev/icons?i=mysql =30x30)
 
-<!-- Cybersecurity -->
-<img alt="Burp Suite" width="30" height="30" src="https://skill-icons.dev/icons?i=burpsuite" />
-<img alt="Nmap" width="30" height="30" src="https://skill-icons.dev/icons?i=nmap" />
-<img alt="Nessus" width="30" height="30" src="https://skill-icons.dev/icons?i=nessus" />
-<img alt="Kali Linux" width="30" height="30" src="https://skill-icons.dev/icons?i=kalilinux" />
-<img alt="OSINT" width="30" height="30" src="https://skill-icons.dev/icons?i=osint" />
+![AWS](https://skill-icons.dev/icons?i=aws =30x30)
+![Lambda](https://skill-icons.dev/icons?i=awslambda =30x30)
+![EC2](https://skill-icons.dev/icons?i=awsec2 =30x30)
+![S3](https://skill-icons.dev/icons?i=awss3 =30x30)
+![CloudWatch](https://skill-icons.dev/icons?i=awscloudwatch =30x30)
+![Route53](https://skill-icons.dev/icons?i=awsroute53 =30x30)
+![API Gateway](https://skill-icons.dev/icons?i=awsapigateway =30x30)
+![Secrets Manager](https://skill-icons.dev/icons?i=awssecretsmanager =30x30)
+![ECS](https://skill-icons.dev/icons?i=awsecs =30x30)
+![RDS](https://skill-icons.dev/icons?i=awsrds =30x30)
+![CloudFront](https://skill-icons.dev/icons?i=awscloudfront =30x30)
+![Load Balancer](https://skill-icons.dev/icons?i=awselb =30x30)
 
-<!-- Tools & Platforms -->
-<img alt="Git" width="30" height="30" src="https://skill-icons.dev/icons?i=git" />
-<img alt="Linux" width="30" height="30" src="https://skill-icons.dev/icons?i=linux" />
-<img alt="Postman" width="30" height="30" src="https://skill-icons.dev/icons?i=postman" />
-<img alt="VS Code" width="30" height="30" src="https://skill-icons.dev/icons?i=vscode" />
-<img alt="Bash" width="30" height="30" src="https://skill-icons.dev/icons?i=bash" />
-<img alt="CyberChef" width="30" height="30" src="https://skill-icons.dev/icons?i=cyberchef" />
+![Burp Suite](https://skill-icons.dev/icons?i=burpsuite =30x30)
+![Nmap](https://skill-icons.dev/icons?i=nmap =30x30)
+![Nessus](https://skill-icons.dev/icons?i=nessus =30x30)
+![Kali Linux](https://skill-icons.dev/icons?i=kalilinux =30x30)
+![OSINT](https://skill-icons.dev/icons?i=osint =30x30)
 
-</p>
-
-
+![Git](https://skill-icons.dev/icons?i=git =30x30)
+![Linux](https://skill-icons.dev/icons?i=linux =30x30)
+![Postman](https://skill-icons.dev/icons?i=postman =30x30)
+![VS Code](https://skill-icons.dev/icons?i=vscode =30x30)
+![Bash](https://skill-icons.dev/icons?i=bash =30x30)
+![CyberChef](https://skill-icons.dev/icons?i=cyberchef =30x30)
 ---
 
 ## 🏆 Certifications & Achievements
