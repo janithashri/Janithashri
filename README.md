@@ -1,7 +1,9 @@
 <p align="center">
-  <h1>
-    <img src="https://img.shields.io/badge/-Janithashri%20G.-000000?style=for-the-badge&logoColor=00aaff&labelColor=000000&color=00aaff&gradient=90"/>
-  </h1>
+  <img src="https://img.shields.io/badge/Hi!%20I%27m%20Janithashri-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=4f46e5&gradient=to-r&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggMEMzLjU4IDAgMCAzLjU4IDAgOCAwIDEyLjQyIDMuNTggMTYgOCAxNiAxMi40MiAxNiAxNiAxMi40MiAxNiA4IDE2IDEyLjQyIDAgMTYiIGZpbGw9IndoaXRlIi8+PC9zdmc+"/>
+</p>
+
+<p align="center">
+  <strong><em>Welcome to my GitHub profile!</em></strong>
 </p>
 
 # Hi, I'm Janihashri (Janitha) 👋
