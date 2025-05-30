@@ -48,6 +48,16 @@ I focus on embedding strong cybersecurity practices to build secure and reliable
 ![CyberChef](https://img.shields.io/badge/-CyberChef-000?&logo=chef)
 
 ---
+## 🏆 Achievements
+
+- 🥇 **DSCI Hackathon Cyberforher** – Secured **7th Place** in a nationwide cybersecurity challenge.    
+- ☁️ **AWS Premium Support – SEE Intern** – Worked on backend and cloud systems at **Amazon Web Services**.  
+- 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected for a community-driven mentorship focused on open source and growth.  
+- 🧠 **Cybersecurity Mentorship – WiCyS & Women for Cyber India** – Deepened cybersecurity knowledge through curated guidance.  
+- 🔥 **Flipkart Runway – Top 402** – Ranked among the **top 402** in a national-level innovation and coding program.
+
+---
+
 
 ## 📫 Connect with me  
 <p align="center">
