@@ -50,12 +50,13 @@ I focus on embedding strong cybersecurity practices to build secure and reliable
 ---
 ## 🏆 Achievements
 
-- 🥇 **DSCI Hackathon Cyberforher** – Secured **7th Place** in a nationwide cybersecurity challenge.    
-- ☁️ **AWS Premium Support – SEE Intern** – Worked on backend and cloud systems at **Amazon Web Services**.  
-- 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected for a community-driven mentorship focused on open source and growth.  
-- 🧠 **Cybersecurity Mentorship – WiCyS & Women for Cyber India** – Deepened cybersecurity knowledge through curated guidance.  
-- 🔥 **Flipkart Runway – Top 402** – Ranked among the **top 402** in a national-level innovation and coding program.
+### Achievements
 
+- Dsci Cyberfoher Hackathon – Secured **7th place** in a national-level cybersecurity competition.
+- AWS Premium Support – Worked as an **SE Intern**, focused on backend and cloud systems.
+- Codess.Cafe OSS Mentorship – Selected for an open-source and learning-driven mentorship.
+- Women for Cyber India – Participated in a cybersecurity-focused mentorship program.
+- Flipkart Runway – Ranked in the **Top 402** nationally in a tech innovation challenge.
 ---
 
 
