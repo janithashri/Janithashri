@@ -70,10 +70,9 @@ I enjoy building secure, scalable backend systems using **Node.js**, deploying o
 
 ## 🏆 Certifications & Achievements
 
-- 🔹 **Code SE Intern Role Offer – Amazon**  
-- 🔹 **DSCI + British High Commission CyberForHer** Finalist  
+- 🔹 **AWS SE Intern Role Offer – Amazon** 
 - 🥇 **Flipkart Runway’25**: Top 402 out of 50,000+  
-- 🥈 **Hackathon**: 7th place among 2000+ participants  
+- 🥈 **DSCI + British High Commission CyberForHer Hackathon**: 7th place among 2000+ participants  
 - 🏅 **CodeRush Finalist (IIITM Gwalior)** – 2000+ participants  
 - 🧠 Solved **300+ Leetcode** Problems, **95+ on CodeChef**, **2★ on CodeChef**
 
