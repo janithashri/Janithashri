@@ -51,16 +51,5 @@ I enjoy building scalable, secure applications and constantly sharpening my prob
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/janihashri)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
-
-<p align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=janihashri&show_icons=true&hide_title=true&count_private=true&theme=radical" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janihashri&layout=compact&hide=html&theme=radical" />
-</p>
-
----
-
-*README automatically generated & updated every 3 hours*
-
 
     
