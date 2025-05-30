@@ -8,6 +8,7 @@
     Janithashri G.
   </span>
 </p>
+
 # Hi, I'm Janihashri (Janitha) 👋
 
 I’m passionate about **backend development**, **data structures & algorithms**, **cloud computing with AWS**, and **cybersecurity best practices**.  
