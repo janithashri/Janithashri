@@ -14,66 +14,61 @@ I enjoy building secure, scalable backend systems using **Node.js**, deploying o
 
 ## 🛠️ Skills
 
-<img src="https://skill-icons.dev/icons?i=nodejs" alt="nodejs" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=express" alt="express" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=socketio" alt="socketio" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=restapi" alt="restapi" width="30" height="30" />
-
-<img src="https://skill-icons.dev/icons?i=cpp" alt="cpp" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=python" alt="python" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=mysql" alt="mysql" width="30" height="30" />
-
-<img src="https://skill-icons.dev/icons?i=aws" alt="aws" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awslambda" alt="awslambda" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awsec2" alt="awsec2" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awss3" alt="awss3" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awscloudwatch" alt="awscloudwatch" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awsroute53" alt="awsroute53" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awsapigateway" alt="awsapigateway" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awssecretsmanager" alt="awssecretsmanager" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awsecs" alt="awsecs" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awsrds" alt="awsrds" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awscloudfront" alt="awscloudfront" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=awselb" alt="awselb" width="30" height="30" />
-
-<img src="https://skill-icons.dev/icons?i=burpsuite" alt="burpsuite" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=nmap" alt="nmap" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=nessus" alt="nessus" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=kalilinux" alt="kalilinux" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=osint" alt="osint" width="30" height="30" />
-
-<img src="https://skill-icons.dev/icons?i=git" alt="git" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=linux" alt="linux" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=postman" alt="postman" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=vscode" alt="vscode" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=bash" alt="bash" width="30" height="30" />
-<img src="https://skill-icons.dev/icons?i=cyberchef" alt="cyberchef" width="30" height="30" />
+**Backend Development:** Node.js, Express.js, MongoDB, Socket.IO  
+**Programming & DSA:** C++, Python, SQL (MySQL)  
+**Cloud (AWS):** EC2, S3, IAM, VPC, CloudWatch, Route 53, Lambda, API Gateway, Secrets Manager, ECS, RDS, CloudFront, Load Balancer  
+**Cybersecurity:** Burp Suite, Nmap, Nessus, Kali Linux, OSINT Tools (Hunter.io, Google Dorking, CyberChef)  
+**Tools & Platforms:** Git, Linux, Postman, VS Code, Bash Scripting, CyberChef
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🔹 **AWS SE Intern Role Offer – Amazon** 
-- 🥇 **Flipkart Runway’25**: Top 402 out of 50,000+  
-- 🥈 **DSCI + British High Commission CyberForHer Hackathon**: 7th place among 2000+ participants  
-- 🏅 **CodeRush Finalist (IIITM Gwalior)** – 2000+ participants  
+- 🔹 **Code SE Intern Role Offer – Amazon**  
+- 🔹 **DSCI + British High Commission CyberForHer** Finalist  
+- 🥇 **Flipkart Runway’25:** Top 402 out of 50,000+  
+- 🥈 **Hackathon:** 7th place among 2000+ participants  
+- 🏅 **CodeRush Finalist (IIITM Gwalior):** 2000+ participants  
 - 🧠 Solved **300+ Leetcode** Problems, **95+ on CodeChef**, **2★ on CodeChef**
-
-### 🎓 Learning Cohorts & Mentorship
-- 👩‍💻 **Codess.Cafe OSS Cohort 5**  
-- 💡 **NavGurukul DSA Foundation’24**  
-- 🛡 **Women4Cyber’25 Mentee**
-
-### 📜 Certifications
-- 🟢 **Node.js Backend Development** (GraphQL, REST, MERN, SQL – Udemy)  
-- 🟢 **DBMS & ER Modeling** – Infosys Springboard
 
 ---
 
-## 📬 Let's Connect
+## 🎓 Learning Cohorts & Mentorship
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/janithashri)  
-- 📧 [email](janithashri@gmail.com)  
+- 👩‍💻 Codess.Cafe OSS Cohort 5  
+- 💡 NavGurukul DSA Foundation’24  
+- 🛡 Women4Cyber’25 Mentee
+
+---
+
+## 📈 What I’m Working On
+
+- 🔧 Backend apps using Node.js, MongoDB, and JWT/Auth  
+- 📦 Deploying microservices on AWS EC2/ECS  
+- 🔐 Integrating DevSecOps practices (IAM, Secret Management, Vulnerability Scanning)  
+- ✍️ Contributing to security & backend-focused open-source projects
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janithashri)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanithashriG)
+
+---
+
+## 📊 GitHub Stats
+
+![Janithashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanithashriG&show_icons=true&theme=radical&count_private=true)
+
+---
 
 > “Secure. Scalable. Consistent.” — My code and my mindset.
+
+---
+
+### Fun fact about me
+
+I love combining the power of backend development with cybersecurity to build not only efficient but also secure systems. Outside coding, I enjoy exploring the latest in cloud technologies and mentoring fellow developers.
+
+---
