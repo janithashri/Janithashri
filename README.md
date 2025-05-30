@@ -55,7 +55,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
 - 🛠️ **Amazon Internship** – AWS SE Intern; backend + cloud automation.
 - 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected mentee (collaborative open-source + dev)
 - 🔐 **Women for Cyber India** – Cybersecurity mentorship program
-- 🚀 **Flipkart Runway** – Top 402 (tech innovation challenge)
+- 🚀 **Flipkart Runway'25** – Top 402 (among 50,000+ applications)
 - 📈 **Coding profile** - 350+ Leetcode Problems 1577 ranking , 2 star codechef.
 
 ---
