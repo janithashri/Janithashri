@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/janihashri/janihashri/master/profile.gif" alt="Profile GIF" width="150" />
 </p>
 
-# Hi, I'm Janihashri (Janitha) 👋
+# Hi, I'm Janithashri 👋
 
 I’m passionate about **backend development**, **data structures & algorithms**, **cloud computing with AWS**, and **cybersecurity best practices**.  
 I enjoy building scalable, secure applications and constantly sharpening my problem-solving skills.
