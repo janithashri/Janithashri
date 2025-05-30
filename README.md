@@ -11,60 +11,53 @@ I’m a passionate backend developer and cloud enthusiast currently interning at
 I enjoy building secure, scalable backend systems using **Node.js**, deploying on **AWS**, and integrating **DevSecOps** and security-first practices.
 
 ---
-
 ## 🛠️ Skills
 
 <p align="left">
-  <strong>Backend Development:</strong>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" width="30" height="30" />
-  <img alt="Express.js" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="30" height="30" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" width="30" height="30" />
-  <img alt="REST API" src="https://cdn-icons-png.flaticon.com/512/919/919842.png" width="30" height="30" title="REST API" />
-  <img alt="Socket.IO" src="https://socket.io/images/logo.svg" width="30" height="30" />
+
+<!-- Backend Development -->
+<img alt="Node.js" width="30" height="30" src="https://skill-icons.dev/icons?i=nodejs" />
+<img alt="Express" width="30" height="30" src="https://skill-icons.dev/icons?i=express" />
+<img alt="MongoDB" width="30" height="30" src="https://skill-icons.dev/icons?i=mongodb" />
+<img alt="Socket.IO" width="30" height="30" src="https://skill-icons.dev/icons?i=socketio" />
+<img alt="REST API" width="30" height="30" src="https://skill-icons.dev/icons?i=restapi" />
+
+<!-- Programming & DSA -->
+<img alt="C++" width="30" height="30" src="https://skill-icons.dev/icons?i=cpp" />
+<img alt="Python" width="30" height="30" src="https://skill-icons.dev/icons?i=python" />
+<img alt="MySQL" width="30" height="30" src="https://skill-icons.dev/icons?i=mysql" />
+
+<!-- AWS Cloud -->
+<img alt="AWS" width="30" height="30" src="https://skill-icons.dev/icons?i=aws" />
+<img alt="Lambda" width="30" height="30" src="https://skill-icons.dev/icons?i=awslambda" />
+<img alt="EC2" width="30" height="30" src="https://skill-icons.dev/icons?i=awsec2" />
+<img alt="S3" width="30" height="30" src="https://skill-icons.dev/icons?i=awss3" />
+<img alt="CloudWatch" width="30" height="30" src="https://skill-icons.dev/icons?i=awscloudwatch" />
+<img alt="Route53" width="30" height="30" src="https://skill-icons.dev/icons?i=awsroute53" />
+<img alt="API Gateway" width="30" height="30" src="https://skill-icons.dev/icons?i=awsapigateway" />
+<img alt="Secrets Manager" width="30" height="30" src="https://skill-icons.dev/icons?i=awssecretsmanager" />
+<img alt="ECS" width="30" height="30" src="https://skill-icons.dev/icons?i=awsecs" />
+<img alt="RDS" width="30" height="30" src="https://skill-icons.dev/icons?i=awsrds" />
+<img alt="CloudFront" width="30" height="30" src="https://skill-icons.dev/icons?i=awscloudfront" />
+<img alt="Load Balancer" width="30" height="30" src="https://skill-icons.dev/icons?i=awselb" />
+
+<!-- Cybersecurity -->
+<img alt="Burp Suite" width="30" height="30" src="https://skill-icons.dev/icons?i=burpsuite" />
+<img alt="Nmap" width="30" height="30" src="https://skill-icons.dev/icons?i=nmap" />
+<img alt="Nessus" width="30" height="30" src="https://skill-icons.dev/icons?i=nessus" />
+<img alt="Kali Linux" width="30" height="30" src="https://skill-icons.dev/icons?i=kalilinux" />
+<img alt="OSINT" width="30" height="30" src="https://skill-icons.dev/icons?i=osint" />
+
+<!-- Tools & Platforms -->
+<img alt="Git" width="30" height="30" src="https://skill-icons.dev/icons?i=git" />
+<img alt="Linux" width="30" height="30" src="https://skill-icons.dev/icons?i=linux" />
+<img alt="Postman" width="30" height="30" src="https://skill-icons.dev/icons?i=postman" />
+<img alt="VS Code" width="30" height="30" src="https://skill-icons.dev/icons?i=vscode" />
+<img alt="Bash" width="30" height="30" src="https://skill-icons.dev/icons?i=bash" />
+<img alt="CyberChef" width="30" height="30" src="https://skill-icons.dev/icons?i=cyberchef" />
+
 </p>
 
-<p align="left">
-  <strong>Programming & DSA:</strong>
-  <img alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" width="30" height="30" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" width="30" height="30" />
-  <img alt="SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" width="30" height="30" />
-</p>
-
-<p align="left">
-  <strong>Cloud (AWS):</strong>
-  <img alt="AWS EC2" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS EC2" />
-  <img alt="AWS S3" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS S3" />
-  <img alt="AWS IAM" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS IAM" />
-  <img alt="AWS VPC" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS VPC" />
-  <img alt="AWS CloudWatch" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS CloudWatch" />
-  <img alt="AWS Route 53" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS Route 53" />
-  <img alt="AWS Lambda" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS Lambda" />
-  <img alt="API Gateway" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="API Gateway" />
-  <img alt="AWS Secrets Manager" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS Secrets Manager" />
-  <img alt="AWS ECS" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS ECS" />
-  <img alt="AWS RDS" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS RDS" />
-  <img alt="AWS CloudFront" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS CloudFront" />
-  <img alt="AWS Load Balancer" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="30" height="30" title="AWS Load Balancer" />
-</p>
-
-<p align="left">
-  <strong>Cybersecurity:</strong>
-  <img alt="Burp Suite" src="https://portswigger.net/burp/images/logo.svg" width="30" height="30" />
-  <img alt="Nmap" src="https://nmap.org/images/nmap-logo.svg" width="30" height="30" />
-  <img alt="Nessus" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/nessus-logo.svg" width="30" height="30" />
-  <img alt="Kali Linux" src="https://www.kali.org/images/kali-dragon.svg" width="30" height="30" />
-  <img alt="OSINT" src="https://osintframework.com/wp-content/uploads/2018/11/osint_logo.png" width="30" height="30" />
-</p>
-
-<p align="left">
-  <strong>Tools & Platforms:</strong>
-  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="30" height="30" />
-  <img alt="Linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" width="30" height="30" />
-  <img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" width="30" height="30" />
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" width="30" height="30" />
-  <img alt="Bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg" width="30" height="30" />
-  <img alt="CyberChef" src="https://gchq.github.io/CyberChef/images/favicon.png" width="30" height="30" />
-</p>
 
 ---
 
