@@ -6,8 +6,11 @@
   <strong><em>Welcome to my GitHub profile!</em></strong>
 </p>
 
-I’m passionate about **backend development**, **data structures & algorithms**, **cloud computing with AWS**, and **cybersecurity best practices**.  
-I enjoy building scalable, secure applications and constantly sharpening my problem-solving skills.
+---
+
+I’m passionate about crafting powerful backend systems and deploying scalable solutions on AWS cloud.
+I thrive on solving complex problems with efficient data structures and algorithms.
+I focus on embedding strong cybersecurity practices to build secure and reliable applications.
 
 ---
 
