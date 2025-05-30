@@ -1,3 +1,13 @@
+<p align="center">
+  <span style="font-size: 48px; 
+               font-weight: bold; 
+               background: linear-gradient(90deg, #000000, #00aaff); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               display: inline-block;">
+    Janithashri G.
+  </span>
+</p>
 # Hi, I'm Janihashri (Janitha) 👋
 
 I’m passionate about **backend development**, **data structures & algorithms**, **cloud computing with AWS**, and **cybersecurity best practices**.  
