@@ -52,7 +52,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
 ## 🏆 Achievements
 
 - 🥇 **DSCI CyberforHer Hackathon** – 7th place (National-level cybersecurity challenge)
-- 🛠️ **AWS Premium Support** – SE Intern; backend + cloud automation projects
+- 🛠️ **Amazon Internship** – AWS SE Intern; backend + cloud automation projects
 - 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected mentee (collaborative open-source + dev)
 - 🔐 **Women for Cyber India** – Cybersecurity mentorship program
 - 🚀 **Flipkart Runway** – Top 402 (tech innovation challenge)
