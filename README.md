@@ -1,75 +1,42 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/janihashri/janihashri/master/profile.gif" alt="Profile GIF" width="150" />
-</p>
+# Hi, I'm Janihashri (Janitha) 👋
 
-<h1 align="center">
-  <code>
-    <span id="animated-name">Janihashri</span>
-  </code>
-</h1>
-
-<script>
-  // Simple typing animation for your name
-  const name = "Janihashri";
-  let i = 0;
-  const animatedName = document.getElementById("animated-name");
-
-  function typeWriter() {
-    if (i <= name.length) {
-      animatedName.textContent = name.substring(0, i);
-      i++;
-      setTimeout(typeWriter, 150);
-    }
-  }
-
-  typeWriter();
-</script>
+I’m passionate about **backend development**, **data structures & algorithms**, **cloud computing with AWS**, and **cybersecurity best practices**.  
+I enjoy building scalable, secure applications and constantly sharpening my problem-solving skills.
 
 ---
 
 ## 🛠️ Skills
 
-### Backend & Programming Languages  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)  
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?&logo=socket.io)  
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
+### Backend & Programming
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?&logo=socket.io)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)  
-![EC2](https://img.shields.io/badge/-EC2-000?&logo=amazonaws)  
-![S3](https://img.shields.io/badge/-S3-000?&logo=amazonaws)  
-![IAM](https://img.shields.io/badge/-IAM-000?&logo=amazonaws)  
-![VPC](https://img.shields.io/badge/-VPC-000?&logo=amazonaws)  
-![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=amazonaws)  
-![API Gateway](https://img.shields.io/badge/-API%20Gateway-000?&logo=amazonaws)  
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-000?&logo=amazonaws)  
-![Route 53](https://img.shields.io/badge/-Route%2053-000?&logo=amazonaws)  
-![ECS](https://img.shields.io/badge/-ECS-000?&logo=amazonaws)  
-![RDS](https://img.shields.io/badge/-RDS-000?&logo=amazonaws)  
-![CloudFront](https://img.shields.io/badge/-CloudFront-000?&logo=amazonaws)  
-![Load Balancer](https://img.shields.io/badge/-Load%20Balancer-000?&logo=amazonaws)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-000?&logo=amazon-aws)
+![S3](https://img.shields.io/badge/-S3-000?&logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=amazon-aws)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-000?&logo=amazon-aws)
 
-### Cybersecurity Tools & Practices  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)  
-![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)  
-![Nessus](https://img.shields.io/badge/-Nessus-000?&logo=nessus)  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)  
-![OSINT Tools](https://img.shields.io/badge/-OSINT%20Tools-000?&logo=google)  
-Hunter.io, Google Dorking, CyberChef  
+### Cybersecurity & Tools
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000?&logo=portswigger)
+![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)
+![Nessus](https://img.shields.io/badge/-Nessus-000?&logo=nessus)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kali-linux)
+![OSINT Tools](https://img.shields.io/badge/-OSINT-000?&logo=google)
 
-### Tools & Other Skills  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)  
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  
-Bash Scripting  
-CyberChef (Data analysis & decoding)
-
-
+### Other Tools
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![CyberChef](https://img.shields.io/badge/-CyberChef-000?&logo=chef)
 
 ---
 
