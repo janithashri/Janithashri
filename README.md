@@ -1,12 +1,7 @@
 <p align="center">
-  <span style="font-size: 48px; 
-               font-weight: bold; 
-               background: linear-gradient(90deg, #000000, #00aaff); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent;
-               display: inline-block;">
-    Janithashri G.
-  </span>
+  <h1>
+    <img src="https://img.shields.io/badge/-Janithashri%20G.-000000?style=for-the-badge&logoColor=00aaff&labelColor=000000&color=00aaff&gradient=90"/>
+  </h1>
 </p>
 
 # Hi, I'm Janihashri (Janitha) 👋
