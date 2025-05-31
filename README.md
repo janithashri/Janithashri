@@ -52,7 +52,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
 
 ## 🏆 Achievements
 
-- 🥇 **DSCI CyberforHer Hackathon** – 7th place (National-level cybersecurity challenge)
+- 🥇 **DSCI+British council CyberforHer Hackathon** – 7th place (National-level cybersecurity challenge)
 - 🛠️ **Amazon Internship** – AWS SE Intern'25 @amazon Banglore; backend + cloud automation.
 - 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected mentee (collaborative open-source + dev)
 - 🔐 **Women4cyber'25 Europe** – Cybersecurity mentorship program
