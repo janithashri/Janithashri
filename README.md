@@ -30,6 +30,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
 ![EC2](https://img.shields.io/badge/-EC2-0D1117?&logo=amazon-aws)
 ![S3](https://img.shields.io/badge/-S3-0D1117?&logo=amazon-aws)
 ![Lambda](https://img.shields.io/badge/-Lambda-0D1117?&logo=aws-lambda)
+![DynamoDb](https://img.shields.io/badge/-Dynamodb-0D1117?&logo=aws-Dynamodb)
 ![API Gateway](https://img.shields.io/badge/-API_Gateway-0D1117?&logo=amazon-aws)
 
 ### 🔐 Cybersecurity & Tools
