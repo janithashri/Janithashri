@@ -70,7 +70,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
   <a href="https://linkedin.com/in/janithashri" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/janithashri/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/janithashri-g-588aa5214/" target="_blank" rel="noopener noreferrer">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" />
   </a>&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
