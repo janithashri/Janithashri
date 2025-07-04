@@ -57,7 +57,7 @@ I care deeply about **cybersecurity best practices** and enjoy building robust, 
 - 👩‍💻 **Codess.Cafe OSS Mentorship** – Selected mentee (collaborative open-source + dev)
 - 🔐 **Women4cyber'25 Europe** – Cybersecurity mentorship program
 - 🚀 **Flipkart Runway'25** – Top 402 (among 50,000+ applications)
-- 📈 **Coding profile** - 350+ Leetcode Problems 1577 ranking , 2 star codechef.
+- 📈 **Coding profile** - 350+ Leetcode Problems 1627 ranking , 2 star codechef.
 
 ---
 
