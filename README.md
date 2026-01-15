@@ -3,65 +3,89 @@
   Backend & cloud-focused engineer who enjoys building reliable systems and collaborating on real-world projects.
 </p>
 
+<p align="center">
+  <em>Interested in scalable backends, cloud infrastructure, and security-aware system design.</em>
+</p>
+
 ---
 
 ### 🌱 About Me
 
-I’m an undergraduate backend developer interested in **scalable systems**, **cloud infrastructure**, and **security-aware design**.
+I’m an undergraduate backend developer who likes working close to the **systems layer** — where backend logic, cloud infrastructure, and networking meet.
 
 I enjoy:
-- building backend services that survive real traffic
-- working close to infrastructure (cloud, networking, IAM)
-- contributing to open-source with production standards
-- discussing system design, trade-offs, and failure cases
+- designing APIs and backend services that scale
+- working with cloud infrastructure and automation
+- thinking about reliability, failure modes, and security
+- contributing to open-source projects with production standards
 
-Currently exploring deeper ideas around **distributed systems**, **cloud security**, and **graph-based infrastructure modeling**.
+Currently learning more about **distributed systems**, **cloud security**, and **infrastructure visibility**.
 
 ---
 
-### 🤝 What I’m Open To
+### 🤝 Open to Collaboration
 
-I’m always happy to collaborate on:
+I’m happy to collaborate on:
 - backend-heavy open-source projects  
 - cloud tooling, infra visibility, or security-focused systems  
-- projects involving **AWS**, **networking**, or **system design**
-- meaningful internships or research-oriented engineering work
+- projects involving AWS, networking, or system design  
 
-If you maintain a project and think I could help — feel free to reach out.
-
----
-
-### 🔧 Tech I Actually Use
-
-**Languages**
-- Python, C++, Node.js, SQL
-
-**Backend & Systems**
-- REST APIs, async services, event-driven design
-- Data modeling, reliability, monitoring-first thinking
-
-**Cloud**
-- AWS (EC2, VPC, IAM, DynamoDB, SNS, CloudWatch)
-- Some exposure to Azure & GCP through OSS
-
-**Security & Networking**
-- Threat modeling, OWASP Top 10
-- Network fundamentals (TCP/IP, routing, subnetting)
-- Misconfiguration analysis & secure-by-default design
-
-**Tools**
-- Docker, Git, GitHub Actions
-- Neo4j (graph modeling)
-- Linux, basic security tooling
+If you maintain a project and think I could help, feel free to reach out.
 
 ---
 
-### 🧠 Highlights 
+### 🔧 Tech I Work With
 
-- Contributed **production code** to CNCF Cartography (cloud infra mapping)
-- Built backend automation and monitoring during **AWS internship**
-- Hackathon experience across **security**, **network analysis**, and **backend systems**
-- Competitive programming background (LeetCode global rank ~1700)
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat&logo=mysql&logoColor=4479A1"/>
+
+<br/>
+
+<!-- Backend & Cloud -->
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazon-aws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat"/>
+<img src="https://img.shields.io/badge/Event_Driven-0D1117?style=flat"/>
+
+<br/>
+
+<!-- Systems & Security -->
+<img src="https://img.shields.io/badge/Networking-0D1117?style=flat"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat"/>
+<img src="https://img.shields.io/badge/Threat_Modeling-0D1117?style=flat"/>
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=flat&logo=owasp&logoColor=white"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Neo4j-0D1117?style=flat&logo=neo4j&logoColor=008CC1"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat&logo=github-actions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=FCC624"/>
+
+</p>
+
+---
+
+### 🧠 Highlights
+
+- Contributed production-level code to CNCF Cartography (cloud infrastructure mapping)
+- Built backend automation and monitoring during an AWS-focused internship
+- Hackathon experience across backend systems and security challenges
+- Strong problem-solving background (competitive programming)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janithashri&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
