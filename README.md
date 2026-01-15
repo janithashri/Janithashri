@@ -77,15 +77,9 @@ If you maintain a project and think I could help, feel free to reach out.
 - Contributed production-level code to CNCF Cartography (cloud infrastructure mapping)
 - Built backend automation and monitoring during an AWS-focused internship
 - Hackathon experience across backend systems and security challenges
-- Strong problem-solving background (competitive programming)
+- Strong problem-solving background (Leetcode ~1700)
 
----
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janithashri&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
