@@ -56,7 +56,7 @@ If you maintain a project and think I could help — feel free to reach out.
 
 ---
 
-### 🧠 Highlights (Not a Full Resume)
+### 🧠 Highlights 
 
 - Contributed **production code** to CNCF Cartography (cloud infra mapping)
 - Built backend automation and monitoring during **AWS internship**
