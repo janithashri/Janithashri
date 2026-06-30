@@ -91,9 +91,9 @@ public:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=janithashri&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithashri&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </p>
 
@@ -109,21 +109,19 @@ public:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/janithashri-g-588aa5214/">
 <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/janithashri/">
 <img src="https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janithashri@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-818CF8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-5B5FC7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 </p>
 
