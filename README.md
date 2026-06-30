@@ -1,104 +1,138 @@
-<p align="center">
-  <strong>Hi, I’m Janithashri 👋</strong><br/>
-  Backend & cloud-focused engineer who enjoys building reliable systems and collaborating on real-world projects.
-</p>
+<div align="center">
 
-<p align="center">
-  <em>Interested in scalable backends, cloud infrastructure, and security-aware system design.</em>
-</p>
+# Hi there, I'm Janithashri 👋
 
----
+### ☁️ Backend Engineer • Cloud Infrastructure • Security • Open Source
 
-### 🌱 About Me
 
-I’m an undergraduate backend developer who likes working close to the **systems layer** — where backend logic, cloud infrastructure, and networking meet.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7C83FD&center=true&vCenter=true&width=850&lines=Building+secure+backend+systems+one+commit+at+a+time.;AWS+Support+Engineer+Intern+%40+Amazon+%7C+LFX+CNCF+Open+Source+Mentee.;Currently+exploring+Cloud+Security%2C+%26+Graph+Neural+Networks+%F0%9F%92%9C"/>
 
-I enjoy:
-- designing APIs and backend services that scale
-- working with cloud infrastructure and automation
-- thinking about reliability, failure modes, and security
-- contributing to open-source projects with production standards
-
-Currently learning more about **distributed systems**, **cloud security**, and **infrastructure visibility**.
+</div>
 
 ---
 
-### 🤝 Open to Collaboration
+## 👩‍💻 About Me
 
-I’m happy to collaborate on:
-- backend-heavy open-source projects  
-- cloud tooling, infra visibility, or security-focused systems  
-- projects involving AWS, networking, or system design  
+```cpp
+class Janithashri {
 
-If you maintain a project and think I could help, feel free to reach out.
+public:
+
+    string education =
+        "B.Tech Information Technology @ IIIT Gwalior";
+
+    string role =
+        "Backend Engineer";
+
+    string focus =
+        "Cloud Infrastructure & Security";
+
+    vector<string> exploring = {
+        "Distributed Systems",
+        "Cloud Security",
+        "Graph Neural Networks",
+        "System Design"
+    };
+
+    vector<string> building = {
+        "FastAPI",
+        "Neo4j",
+        "AWS",
+        "Open Source"
+    };
+
+    string funFact =
+        "I enjoy turning cloud infrastructure into graphs ☁️";
+};
+```
 
 ---
 
-### 🔧 Tech I Work With
+## ✨ Currently
+
+-  Building **CloudSecure**
+-  Exploring **Cloud Security**, **Distributed Systems** & **Graph Neural Networks**
+-  Solving **DSA** one bug at a time
+-  Contributing to **Open Source**
+-  Open to **Backend / Infrastructure Engineering** opportunities
+
+---
+
+## 🩵 Favorite Tools
 
 <p align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=flat&logo=c%2B%2B&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat&logo=mysql&logoColor=4479A1"/>
-
-<br/>
-
-<!-- Backend & Cloud -->
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat"/>
-<img src="https://img.shields.io/badge/Event_Driven-0D1117?style=flat"/>
-
-<br/>
-
-<!-- Systems & Security -->
-<img src="https://img.shields.io/badge/Networking-0D1117?style=flat"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat"/>
-<img src="https://img.shields.io/badge/Threat_Modeling-0D1117?style=flat"/>
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=flat&logo=owasp&logoColor=white"/>
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Neo4j-0D1117?style=flat&logo=neo4j&logoColor=008CC1"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat&logo=github-actions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=FCC624"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,neo4j,docker,aws,git,linux,github,vscode"/>
 
 </p>
 
 ---
 
-### 🧠 Highlights
+## 🚀 Featured Projects
 
-- Contributed production-level code to CNCF Cartography (cloud infrastructure mapping)
-- Built backend automation and monitoring during an AWS-focused internship
-- Hackathon experience across backend systems and security challenges
-- Strong problem-solving background (Leetcode ~1700)
-
-
+| 🌟 Project | Description |
+|------------|-------------|
+|  **CloudSecure** | Cloud Security Intelligence Engine built with FastAPI, Neo4j, AWS & OPA |
+|  **AI File Security Platform** | AI-powered malware & phishing detection platform with FastAPI and Transformers |
+|  **Cartography (CNCF)** | Open source contributions for Azure & GCP infrastructure graph ingestion |
 
 ---
 
-### 📬 Let’s Connect
+## 🌷 Little Achievements
+
+-  AWS Support Engineer Intern @ **Amazon**
+-  **LFX CNCF** Open Source Mentee
+-  **500+** DSA problems solved
+-  National Cybersecurity Hackathon Finalist
+
+---
+
+## 📈 GitHub
 
 <p align="center">
-  <a href="https://github.com/janithashri">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/janithashri-g-588aa5214/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/janithashri/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=FFA116"/>
-  </a>
-  &nbsp;
-  <a href="mailto:janithashri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-818CF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-5B5FC7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 *"Always learning. Always building. Always curious."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C83FD,100:A78BFA&height=100&section=footer"/>
+
+</div>
