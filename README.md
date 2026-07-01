@@ -123,6 +123,5 @@ public:
 
 ### 💜 *"Always learning. Always building. Always curious."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C83FD,100:A78BFA&height=100&section=footer"/>
 
 </div>
