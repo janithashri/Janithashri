@@ -78,15 +78,6 @@ public:
 
 ---
 
-## 🌷 Little Achievements
-
--  AWS Support Engineer Intern @ **Amazon**
--  **LFX CNCF** Open Source Mentee
--  **500+** DSA problems solved
--  National Cybersecurity Hackathon Finalist
-
----
-
 ## 📈 GitHub
 
 <p align="center">
